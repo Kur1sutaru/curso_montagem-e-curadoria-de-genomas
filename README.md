@@ -16,7 +16,7 @@ multiqc --interactive FastQC
 
 Amostrar reads:
 ```
-seqtk sample <fastq file> <fraction>|<number>
+seqtk sample <file.fastq> <fraction>|<number> > <fastq_VALUE.fastq>
 ```
 
 ## Montagem
