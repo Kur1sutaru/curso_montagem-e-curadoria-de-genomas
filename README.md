@@ -14,6 +14,11 @@ Para facilitar a investigação os resultados podem ser compilados em gráficos 
 multiqc --interactive FastQC
 ```
 
+Amostrar reads:
+```
+seqtk sample <fastq file> <fraction>|<number>
+```
+
 ## Montagem
 
 ## Scaffolding
