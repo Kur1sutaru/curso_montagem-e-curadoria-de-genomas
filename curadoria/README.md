@@ -1,5 +1,5 @@
 # Curadoria de montagem
-#### prof: Livia Moura
+#### prof. Livia Moura
 
 ## Preparando o ambiente
 
