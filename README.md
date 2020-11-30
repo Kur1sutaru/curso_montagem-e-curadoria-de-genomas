@@ -27,6 +27,20 @@ http://www.usadellab.org/cms/?page=trimmomatic
 
 ## Montagem
 
+Spades:
+```
+spades -1 reads_R1.fastq -2 reads_R2.fastq -o spadesAssembly
+```
+Edena:
+```
+edena -paired reads_R1.fastq reads_R2.fastq
+edena -edenaFile out.ovl
+```
+
 ## Scaffolding
 
+Contiguator:
+```
+python contiguator -c <Contigs> -r <reference.fasta>
+```
 ## Curadoria
