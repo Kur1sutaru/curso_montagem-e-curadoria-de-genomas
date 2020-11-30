@@ -19,6 +19,12 @@ Amostrar reads:
 seqtk sample <file.fastq> <fraction>|<number> > <fastq_VALUE.fastq>
 ```
 
+Trimagem de reads:
+```
+java -jar trimmnomatic.jar <options>
+```
+http://www.usadellab.org/cms/?page=trimmomatic
+
 ## Montagem
 
 ## Scaffolding
