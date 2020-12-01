@@ -16,12 +16,17 @@ http://ugene.net/download-all_html
 https://drive.google.com/drive/folders/1JNRNxFMvlnMaRel_eZY4wyxwSfRBwiM4?usp=sharing
 ```
 
-## CIGAR 
+## SAM tags
 
-1 - Mais informações sobre essa métrica 
+1 - CIGAR  
 ```
 https://samtools.github.io/hts-specs/SAMv1.pdf
 páginas 7-8
+```
+
+2 - Outras TAGS
+```
+https://samtools.github.io/hts-specs/SAMtags.pdf
 ```
 
 ## Pysam 
