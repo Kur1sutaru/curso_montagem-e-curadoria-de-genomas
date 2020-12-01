@@ -12,12 +12,15 @@ Pra quem usa Windows, iremos utilizar uma ferramenta chamada **MobaXterm**
 #### **Configurando o moba***
 
 1 - Abra o MobaXterm e selecione Session
+
 ![moba1](./../curadoria/figures/moba1.jpg)
 
 2 - Em SSH, digite o **IP HOST** que será passado em aula, junto com seu usuário, e clique em **OK**
+
 ![moba2](./../curadoria/figures/moba2.jpg)
 
 3 - Ao adicionar a instância, dê duplo clique e coloque sua senha
+
 ![moba3](./../curadoria/figures/moba3.jpg)
 
 4 - Você está pronto para utilizar o servidor e ter acesso, inclusive, para baixar e subir arquivos pro servidor! (mostraremos em aula como fazer).
