@@ -13,7 +13,7 @@ http://ugene.net/download-all_html
 
 3 - Baixe os arquivos que estão no drive para seu ambiente:
 ```
-Colocar aqui
+https://drive.google.com/drive/folders/1JNRNxFMvlnMaRel_eZY4wyxwSfRBwiM4?usp=sharing
 ```
 
 ## CIGAR 
