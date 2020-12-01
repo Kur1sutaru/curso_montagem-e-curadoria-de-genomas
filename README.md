@@ -41,6 +41,11 @@ edena -edenaFile out.ovl
 
 Contiguator:
 ```
-python contiguator -c <Contigs> -r <reference.fasta>
+python contiguator -c <Contigs> -r <reference.fasta> -f <PREFIX>
 ```
+
+Fechamento de gaps:
+```
+java -Xms2G -Xmx4G -jar GenomeFinisher.jar -i <PseudoContig.fasta> -ds <Contigs.fasta> -ref <reference.fasta> -o <output_dir>
+``` 
 ## Curadoria
