@@ -2,7 +2,13 @@
 Passo a passo para montagem de genomas
 
 ## Estrutura de diretórios
-
+data: Dados para sequenciamento
+  * dataset1: Genoma otimizado
+  * dataset2: dataset1 mutado
+  * dataset3: Escherichia coli
+  
+tools: Ferramentas
+  
 ## Pré-processamento
 
 Para investigar a qualidade do sequenciamento pode-se usar o FastQC:
